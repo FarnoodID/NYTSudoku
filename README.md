@@ -2,6 +2,15 @@
 
 A simple Python program designed to solve [Sudoku puzzles](https://www.nytimes.com/puzzles/sudoku). This repository provides a simple command-line interface for users to input a Sudoku puzzle and receive the solved board as output.
 
+## NYT Puzzles and codes
+| Puzzles        | Code       |
+|----------------|----------------|
+| [Wordle](https://www.nytimes.com/games/wordle/index.html)    | [NYTWordle](https://github.com/FarnoodID/NYTWordle)           |
+| [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) | [NYTLetterBoxed](https://github.com/FarnoodID/NYTLetterBoxed) |
+| [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) | [NYTSpellingBee](https://github.com/FarnoodID/NYTSpellingBee) |
+| [Sudoku](https://www.nytimes.com/puzzles/sudoku)             | NYTSudoku          |
+| [Pixletters](https://pixletters.com/)                        | [Pixletters](https://github.com/FarnoodID/Pixletters)         |
+
 ## Overview
 
 Sudoku is a logic-based number-placement puzzle where the goal is to fill a 9×9 grid so that each column, each row, and each of the nine 3×3 subgrids contain all digits from 1 to 9. **NYTSudoku** utilizes a backtracking algorithm to solve these puzzles efficiently.
